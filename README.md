@@ -1,6 +1,6 @@
 # Poke_API
 
-Consumiendo una API de pokemon, mediante un botón se llamará cada vez que se pulse a la función consultarPokemones()
+Consumiendo API de pokemon, mediante un botón se llamará cada vez que se pulse a la función consultarPokemones()
 
 dentro de ésta función se usa el objeto Math para generar números aleatorios que contienen el id de cada
 
